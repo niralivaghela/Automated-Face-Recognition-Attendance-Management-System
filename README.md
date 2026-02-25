@@ -578,6 +578,3 @@ mysql -u root -p face_attendance_db < backup.sql
 **Built for**: Vanita Vishram Women's University  
 **Technology**: Python + OpenCV + MySQL + Tkinter  
 **No dlib/cmake required!** ✅
-
-<img width="1917" height="1017" alt="Screenshot 2026-02-22 152622" src="https://github.com/user-attachments/assets/f321b1dc-26f6-44d4-bd26-eb7ca6c8b132" />
-

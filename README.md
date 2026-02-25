@@ -579,5 +579,5 @@ mysql -u root -p face_attendance_db < backup.sql
 **Technology**: Python + OpenCV + MySQL + Tkinter  
 **No dlib/cmake required!** ✅
 
-<img width="1919" height="1019" alt="Screenshot 2026-02-22 153031" src="https://github.com/user-attachments/assets/3b9ff72b-7895-46d4-8b2d-e0c251545b59" />
+<img width="1917" height="1017" alt="Screenshot 2026-02-22 152622" src="https://github.com/user-attachments/assets/f321b1dc-26f6-44d4-bd26-eb7ca6c8b132" />
 
